@@ -7,7 +7,7 @@ Official documentation for [Ghost](https://github.com/tryghost/ghost) - located 
 Install Mintlify CLI to preview docs changes locally:
 
 ```
-npm i -g mintlify
+pnpm i -g mintlify
 ```
 
 Start dev server with:
